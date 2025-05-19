@@ -1,14 +1,14 @@
 # Churn-Modelling-Analysis-Using-MLFlow
 
-## END TO END MLOPS Project
+ END TO END MLOPS Project : 
+ 
 
-# Creating Env for Project
+ Creating Env for Project : conda create -p venv python==3.10
 
-conda create -p venv python==3.10
 
-**Activating conda env**
+ Activating conda env : conda activate venv/
 
-conda activate venv/
 
-# Installed Required lib
-pip install -r requirements.txt
+ Installed Required lib : pip install -r requirements.txt
+
+ 
