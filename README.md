@@ -6,7 +6,7 @@
 
 conda create -p venv python==3.10
 
-# Activating conda env
+**Activating conda env**
 
 conda activate venv/
 
