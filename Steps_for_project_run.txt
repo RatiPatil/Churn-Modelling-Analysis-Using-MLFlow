@@ -1,0 +1,8 @@
+open terminal
+open command prompt
+conda create -p venv 
+conda activate venv/
+pip install -r requiremnts.txt
+pip install ipykernel
+in command prompt write mlflow ui
+run all jupyter notebook file
